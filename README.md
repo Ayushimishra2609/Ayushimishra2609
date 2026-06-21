@@ -1,3 +1,5 @@
+<p align="center"> <img src="./banner.png" width="100%" alt="Ayushi Mishra Banner"> </p>
+
 <div align="center">
 
 # 👋 Hey, I'm Ayushi Mishra
