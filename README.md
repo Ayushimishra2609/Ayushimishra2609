@@ -109,7 +109,7 @@ Learning:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushimishra2609&layout=compact"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushimishra2609"/>
 
 </div>
 
@@ -153,11 +153,11 @@ const ayushi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-mishra-1677411aa/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:umamishra2609@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ayushimishra2609)
 
 </div>
 
